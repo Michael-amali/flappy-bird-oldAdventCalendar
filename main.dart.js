@@ -962,7 +962,6 @@ n=o.r=new P.a8(n,p,n+150,p+75)
 o.x=P.Ik(n,new P.bq(4,4))
 m=H.bd()
 o.d=m
-m=L.jM(q,"Crushed !!!",45,f+e,4282206290)
 o.y=m
 p=L.jM(q,"",30,p-e/2,4284510075)
 o.z=p
